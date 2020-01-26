@@ -1,5 +1,5 @@
-ruby
-lib/introduction.rb
+'''ruby
+# lib/introduction.rb
 
 def introduction (mena)
   puts " Hi, my name is #{name}."
